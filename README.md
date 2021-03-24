@@ -1,2 +1,2 @@
 # muzik
-MuZik is an app for downloading, reading, searching sounds, and more.
+MuZik is an app for downloading, reading, searching for sounds, and more.
